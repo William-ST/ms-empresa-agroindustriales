@@ -1,3 +1,10 @@
+### 0. Configurar environments
+DB_HOST=db
+DB_PORT=5432
+DB_NAME=empresa_db
+DB_USER=admin
+DB_PASS=admin123
+
 ### 1. Ejecutar con Docker Compose
 
 ```bash
